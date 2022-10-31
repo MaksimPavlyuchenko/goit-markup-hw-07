@@ -1,0 +1,13 @@
+.section-header {
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 80px;
+  border-bottom: 1px solid #ECECEC;
+}
+
+.main-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=section-header.css.map */
